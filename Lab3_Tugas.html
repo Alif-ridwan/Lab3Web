@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Membuat Menu Dropdown</title>
+ <link rel="stylesheet" type="text/css" href="style_tugas.css">
+</head>
+<body>
+
+<h1>Car Menu</h1>
+<hr>
+
+<div class="menu">
+<ul id="navigasi">
+ <li><a href="index.php">Home</a></li>
+ <li><a href="index.php">About</a></li>
+ <li><a href="#">News</a>
+  <ul>
+   <li><a href="index.php">International</a></li>
+   <li><a href="index.php">National</a></li>
+  </ul>
+ </li>
+</ul>
+</div>
+<form>
+    <p>Choose A Car Below:</p>
+    <select name="Name mobil" size="5" multiple="multiple">
+    <optgroup label="Toyota"></optgroup>
+    <option value="Supra">Supra</option>
+    <option value="Celica">Celica</option>
+    <optgroup label="Mitsubishi"></optgroup>
+    <option value="Expander">Expander</option>
+    <option value="Eclipse Cross">Eclipse Cross</option>
+    <optgroup label="BMW"></optgroup>
+    <option value="BMW Z4">BMW Z4</option>
+    <option value="BMW 3">BMW 3</option>
+    <optgroup label="Honda"></optgroup>
+    <option value="Honda NSX">Honda NSX</option>
+    <option value="Honda Civic">Honda Civic</option>
+    <optgroup label="Lamborghini"></optgroup>
+    <option value="Aventador">Aventador</option>
+    <option value="Veneno">Veneno</option>
+     </select>
+    <p><input type="submit" value="Request" /></p>
+    </form>
+</body>
+</html>
