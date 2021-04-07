@@ -8,6 +8,7 @@ Kelas		: Ti. 19. B1
 PRAKTIKUM 3
 
 1. Membuat List
+
 ![image](https://user-images.githubusercontent.com/81422149/113818226-b1982880-97a1-11eb-8e60-a4760bbad2cf.png)
 ![image](https://user-images.githubusercontent.com/81422149/113818241-b65cdc80-97a1-11eb-98d6-cd43f4607b89.png)
 ![image](https://user-images.githubusercontent.com/81422149/113818250-b957cd00-97a1-11eb-9a37-4571abc2891c.png)
